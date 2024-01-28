@@ -1,0 +1,5 @@
+mat-toolbar
+{
+    position: relative;
+    z-index: 5;
+}
